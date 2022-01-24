@@ -54,6 +54,7 @@ footer{
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
+    border: none;
     border-bottom: white solid 3px;
     border-left: white solid 10px;
 }
@@ -62,6 +63,7 @@ footer{
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
+    border: none;
     border-bottom: white solid 3px;
     border-right: white solid 10px;
 }
@@ -70,6 +72,7 @@ footer{
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
+    border: none;
     border-bottom: white solid 3px;
     border-left: white solid 10px;
 }
@@ -78,6 +81,7 @@ footer{
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
+    border: none;
     border-bottom: white solid 3px;
     border-right: white solid 10px;
 }
